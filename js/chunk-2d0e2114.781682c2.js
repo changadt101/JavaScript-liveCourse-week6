@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0e2114"],{"7cb4":function(n,t,e){"use strict";e.r(t);var u=function(){var n=this,t=n.$createElement,e=n._self._c||t;return e("div",[e("h2",[n._v("這裡是結帳頁面")]),e("button",{on:{click:function(t){return n.goPage()}}},[n._v("確認並進行結帳")])])},c=[],o={data:function(){return{}},methods:{goPage:function(){this.$router.push("/checkoutFinish")}}},i=o,r=e("2877"),s=Object(r["a"])(i,u,c,!1,null,null,null);t["default"]=s.exports}}]);
+//# sourceMappingURL=chunk-2d0e2114.781682c2.js.map
